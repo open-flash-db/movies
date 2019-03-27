@@ -46,7 +46,7 @@
     {
       "type": "define-font",
       "id": 1,
-      "font_name": "Times New Roman\u0000",
+      "font_name": "Times New Roman",
       "is_bold": false,
       "is_italic": false,
       "is_ansi": false,
