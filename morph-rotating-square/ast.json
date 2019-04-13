@@ -101,7 +101,7 @@
             "line_style": 1
           },
           {
-            "type": "straight-edge",
+            "type": "edge",
             "delta": {
               "x": 2000,
               "y": 0
@@ -112,7 +112,7 @@
             }
           },
           {
-            "type": "straight-edge",
+            "type": "edge",
             "delta": {
               "x": 0,
               "y": 2000
@@ -123,7 +123,7 @@
             }
           },
           {
-            "type": "straight-edge",
+            "type": "edge",
             "delta": {
               "x": -2000,
               "y": 0
@@ -134,7 +134,7 @@
             }
           },
           {
-            "type": "straight-edge",
+            "type": "edge",
             "delta": {
               "x": 0,
               "y": -2000
