@@ -13,13 +13,13 @@
   "tags": [
     {
       "type": "file-attributes",
-      "use_direct_blit": false,
-      "use_gpu": false,
-      "has_metadata": true,
-      "use_as3": true,
-      "no_cross_domain_caching": false,
+      "use_network": false,
       "use_relative_urls": false,
-      "use_network": false
+      "no_cross_domain_caching": false,
+      "use_as3": true,
+      "has_metadata": true,
+      "use_gpu": false,
+      "use_direct_blit": false
     },
     {
       "type": "metadata",
