@@ -12,7 +12,7 @@
   },
   "tags": [
     {
-      "type": "file-attributes",
+      "type": "FileAttributes",
       "use_network": false,
       "use_relative_urls": false,
       "no_cross_domain_caching": false,
@@ -22,7 +22,7 @@
       "use_direct_blit": false
     },
     {
-      "type": "set-background-color",
+      "type": "SetBackgroundColor",
       "color": {
         "r": 255,
         "g": 255,
@@ -30,7 +30,7 @@
       }
     },
     {
-      "type": "define-scene-and-frame-label-data",
+      "type": "DefineSceneAndFrameLabelData",
       "scenes": [
         {
           "offset": 0,
@@ -40,7 +40,7 @@
       "labels": []
     },
     {
-      "type": "show-frame"
+      "type": "ShowFrame"
     }
   ]
 }
